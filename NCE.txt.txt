@@ -4,8 +4,6 @@ This is git project.
 lets start
 kushal
 bhandari
-<<<<<<< HEAD
-=======
 this is number four
 >>>>>>> four
 </html>
